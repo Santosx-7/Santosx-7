@@ -1,8 +1,7 @@
 # Olá, eu sou o Daniel 👋
 > Desenvolvedor em formação • Arapongas, PR
 
-Estudante apaixonado por programação, com foco em desenvolvimento web. Gosto de transformar ideias em projetos reais — já construí desde sistemas de pedidos até apps gamificados de produtividade.
-
+Estudante apaixonado por programação, com foco em desenvolvimento web. Gosto de transformar ideias em projetos reais
 ## 🛠 Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
