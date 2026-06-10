@@ -29,11 +29,6 @@ Passionate about technology and software development. Currently studying JavaScr
 ---
 
 
-## 📊 GitHub Stats
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosx-7\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosx-7\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
