@@ -1,20 +1,44 @@
-# Olá, eu sou o Daniel 👋
-> Desenvolvedor em formação • Paraná Brasil
+# Hi, I'm Daniel 👋
 
-Estudante apaixonado por programação, com foco em desenvolvimento web. Gosto de transformar ideias em projetos reais
-## 🛠 Tecnologias
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+💻 **Developer in Training**
+📍 Paraná, Brazil
 
-## 📌 Projetos em destaque
-- **🛒 [Site de Pedidos](https://github.com/Santosx-7/Site-Pedidos)** — sistema de pedidos online em JavaScript (em desenvolvimento)
-- **🤖 [Bot para Discord](https://github.com/Santosx-7/bot-discord)** — bot em Python com comandos customizados para servidores Discord
-- **🌐 [Landing Page](https://github.com/Santosx-7/Lading-Page)** — página de apresentação responsiva com HTML e CSS
-
-## 📚 Atualmente estudando
-`Banco de dados` `Node.js` `Python`
+Passionate about technology and software development. Currently studying JavaScript, Node.js, Python and Databases while building real-world projects to improve my skills.
 
 ---
-✉️ Entre em contato pelo email: dsantos.fernandess@gmail.com
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+* Node.js
+* Databases
+* Backend Development
+* Software Architecture Fundamentals
+
+---
+
+
+## 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosx-7\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosx-7\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📫 Contact
+
+📧 [dsantos.fernandess@gmail.com](mailto:dsantos.fernandess@gmail.com)
+
+💡 Always open to learning, collaboration and new challenges.
