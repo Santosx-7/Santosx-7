@@ -1,5 +1,5 @@
 # Olá, eu sou o Daniel 👋
-> Desenvolvedor em formação • Arapongas, PR
+> Desenvolvedor em formação • Paraná Brasil
 
 Estudante apaixonado por programação, com foco em desenvolvimento web. Gosto de transformar ideias em projetos reais
 ## 🛠 Tecnologias
